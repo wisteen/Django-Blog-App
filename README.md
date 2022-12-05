@@ -1,2 +1,3 @@
-# django_web_project
-A Simple Django Project
+# Django Web Project
+
+A Simple Django Project for Learning Purposes
