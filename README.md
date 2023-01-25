@@ -1,6 +1,8 @@
-# Django Web Project
+![header.png](header.png)
 
-A project for Learning Purposes
+# Blog App
+
+A project for learning purposes.
 
 ---
 
