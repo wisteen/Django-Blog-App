@@ -1,6 +1,6 @@
 # Django Web Project
 
-A Simple Django Project for Learning Purposes
+A project for Learning Purposes
 
 ---
 
